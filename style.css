@@ -1,0 +1,51 @@
+.bgcolor{
+background-color: #ffffff;
+}
+merkez{
+    display: block;
+    text-align: -webkit-center;
+   
+}
+.bgcolorgri{
+    background-color: #d7cfcf;
+    text-align: -webkit-center;
+    display: block;
+    margin-left:8%;
+    margin-right:8%;
+    
+}
+
+
+
+div1{
+    width: 28%;
+    background-color: aqua;
+    border: #ffffff;
+    border-style: solid;
+    border-width: 0px;
+    margin-left:8%;
+    float: left;
+    padding: 12.5px;
+    margin-right: 2px;
+
+}
+div2{
+    width: 26.3%;
+    height: 33%;
+    background-color: aqua;
+    border: #ffffff;
+    border-style: solid;
+    border-width: 0px;
+    float: left;
+    padding: 3px;
+}
+div3{
+    width: 28%;
+    height: 33%;
+    background-color: aqua;
+    border: #ffffff;
+    border-style: solid;
+    border-width: 0px;
+    margin-right:8%;
+    float:right;
+}
